@@ -1,0 +1,10 @@
+# Generated C builds
+c_exam/build/
+*.o
+*.exe
+core
+core.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
